@@ -1,2 +1,5 @@
 # moje-prvo-skladiste
-my first Repository 
+
+hi humans
+Hubot here,I like node.
+I`ve tacos
